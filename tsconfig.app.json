@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+
+    /* Additional options */
+    "esModuleInterop": true,              // Ensures compatibility with CommonJS modules
+    "forceConsistentCasingInFileNames": true, // Enforce consistent file casing across different operating systems
+    "resolveJsonModule": true,            // Allows importing JSON files as modules
+    "allowSyntheticDefaultImports": true, // Supports default imports from modules with no default export
+    "noImplicitReturns": true,            // Ensures all functions return a value if expected
+    "noImplicitAny": true                 // Avoids the use of the implicit `any` type
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist", "build"]  // Exclude unnecessary directories
+}
