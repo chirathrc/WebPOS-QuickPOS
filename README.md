@@ -31,10 +31,10 @@ QuickPOS is a modern, responsive, and efficient Web Based Point of Sale (POS) sy
 ![Sign In](./screenshots/SignIn.png)
 
 ### 📝 Sign Up
-![Sign Up](./screenshots/signup.png)
+![Sign Up](./screenshots/SignUp.png)
 
 ### 🏠 Home
-![Home](./screenshots/home.png)
+![Home](./screenshots/Home.png)
 
 ### 🛠️ Admin Panel
 ![Admin Part](./screenshots/Administrator.png)
