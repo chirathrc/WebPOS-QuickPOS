@@ -1,6 +1,6 @@
-# 🚀 QuickPOS - Online POS System
+# 🚀 QuickPOS - Web Based POS System
 
-QuickPOS is a modern, responsive, and efficient Online Point of Sale (POS) system built with **React.js**, **TypeScript**, and **Tailwind CSS**. This system is designed to help businesses manage sales, inventory, and customer data seamlessly via an intuitive web interface.
+QuickPOS is a modern, responsive, and efficient Web Based Point of Sale (POS) system built with **React.js**, **TypeScript**, and **Tailwind CSS**. This system is designed to help businesses manage sales, inventory, and customer data seamlessly via an intuitive web interface.
 
 ---
 
